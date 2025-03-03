@@ -1,0 +1,16 @@
+{
+    "pc": {
+        "pc-1": "true",
+        "pc-2": "true",
+        "pc-3": "true",
+        "pc-4": "true",
+        "pc-5": "true"
+    },
+    "customers": {
+        "Rajab": "15000",
+        "Kamal": "130",
+        "Ramil": "1490",
+        "Ilon Mask": "500",
+        "Bomzh": "20"
+    }
+}
